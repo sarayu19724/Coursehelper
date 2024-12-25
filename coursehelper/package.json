@@ -1,5 +1,5 @@
 {
-  "name": "coursehelper",
+  "name": "gdgg",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^6.2.1",
+    "@mui/material": "^6.3.0",
+    "@mui/styled-engine-sc": "^6.2.1",
+    "ionicons": "^7.4.0",
+    "next": "15.1.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.2"
+    "react-icons": "^5.4.0",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
-    "eslint-config-next": "15.1.2",
-    "@eslint/eslintrc": "^3"
+    "eslint-config-next": "15.1.2"
   }
 }
